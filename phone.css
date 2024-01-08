@@ -1,0 +1,9 @@
+@media only screen and (max-width:950px){
+    body{
+        justify-content: center;
+    }
+    .container{
+        width: 80%;
+        position: static;
+    }
+}
