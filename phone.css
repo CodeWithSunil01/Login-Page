@@ -3,7 +3,17 @@
         justify-content: center;
     }
     .container{
-        width: 80%;
-        position: static;
+        width: 66%;
+        top: 14%;
+        left: 15%;
+    }
+    .container h1{
+        font-family: 'Heebo', sans-serif;
+        display: inline-flex;
+        font-size: 40px;
+        border-bottom: 5px solid rgb(176 48 137);
+        margin-bottom: 43px;
+        padding: 13px 0px;
+        margin: 10px 50px 50px 50px;
     }
 }
